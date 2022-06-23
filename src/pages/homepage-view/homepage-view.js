@@ -7,7 +7,7 @@ export class HomePageView extends React.Component {
         return(
             <div>
                 <HeaderComponent> </HeaderComponent>
-                
+                homepage view
                 <FooterComponent> </FooterComponent>
 
             </div>
